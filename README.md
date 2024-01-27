@@ -9,4 +9,5 @@ My name is Dafna Barkan
 
 
 Please note that this page  is presently under construction and will undergo updates :)
+
 ![view pic](view.jpg)
